@@ -1,0 +1,241 @@
+{
+	"i18n": {
+		"language": {
+			"en": "English",
+			"cs": "Česky"
+		},
+		"Language": "Language"
+	},
+
+	"AboutCard": {
+		"About": "About",
+		"Website": "Website",
+		"Vendor": "Vendor"
+	},
+
+	"AccessControlScreen": {
+		"Access control": "Access control",
+		"Username": "Username",
+		"Resources": "Resources",
+		"Tenant": "Tenant"
+	},
+
+	"AccessDeniedCard": {
+		"is not assigned!": "is not assigned!",
+		"Access denied": "Access denied",
+		"Please contact application administrator for assigning appropriate access rights.": "Please contact application administrator for assigning appropriate access rights.",
+		"Leave": "Leave",
+		"Silly as it sounds, the logout failed": "Silly as it sounds, the logout failed"
+	},
+
+	"AuthHeader": {
+		"My account": "My account",
+		"Access control": "Access control",
+		"Account settings": "Account settings",
+		"Change password": "Change password",
+		"Log out": "Log out",
+		"Invite other users": "Invite other users",
+		"You have superuser privileges. Act responsibly.": "You have superuser privileges. Act responsibly."
+	},
+
+	"InvitationScreen": {
+		"Invitation has been sent successfully": "Invitation has been sent successfully",
+		"Invitation has not been sent":"Invitation has not been sent",
+		"The user could not be invited": "The user could not be invited",
+		"Invite other users": "Invite other users",
+		"Enter the email to invite a user": "Enter the email to invite a user",
+		"Send": "Send"
+	},
+
+	"ASABApplicationContainer": {
+		"Service URL is undefined, please check service paths passed to axios": "Service URL is undefined, please check service paths passed to axios",
+		"WebSocket URL is undefined, please check service and subpath passed to WebSocket": "WebSocket URL is undefined, please check service and subpath passed to WebSocket",
+		"Advanced mode enabled": "Advanced mode enabled",
+		"Advanced mode disabled": "Advanced mode disabled",
+		"Fullscreen mode turned on. To turn it off, press CTRL + SHIFT + F.": "Fullscreen mode turned on. To turn it off, press CTRL + SHIFT + F.",
+		"Fullscreen mode turned off": "Fullscreen mode turned off"
+	},
+	"ASABAuthModule": {
+		"You are in DEV mode and using MOCK login parameters": "You are in DEV mode and using MOCK login parameters",
+		"Your session has expired.": "Your session has expired.",
+		"Click here to proceed to login.": " Click here to proceed to login.",
+		"Your session will expire soon": "Your session will expire soon"
+	},
+	"ASABTenantModule": {
+		"Invalid tenant": "Invalid tenant :-("
+	},
+
+	"UserInterfaceCard": {
+		"User interface": "User interface",
+		"Build date": "Build date",
+		"Version": "Version",
+		"Repository": "Repository"
+	},
+
+	"HelpButton": {
+		"Show help info": "Show help info",
+		"Help": "Help"
+	},
+
+	"Console": {
+		"Wrap lines": "Wrap lines",
+		"Unwrap lines": "Unwrap lines"
+	},
+
+	"Sidebar": {
+		"Home": "Home",
+		"Correlation Explorer": "Correlation Explorer",
+		"Library": "Library",
+		"Lookups": "Lookups",
+		"Auth & Roles": "Auth & Roles",
+		"Credentials": "Credentials",
+		"Tenants": "Tenants",
+		"Sessions": "Sessions",
+		"Roles": "Roles",
+		"Resources": "Resources",
+		"Clients": "Clients",
+		"Discover": "Discover",
+		"Dashboards": "Dashboards",
+		"Reports": "Reports",
+		"Export": "Export",
+		"Maintenance": "Maintenance",
+		"Configuration": "Configuration",
+		"Services": "Services",
+		"Tools": "Tools",
+		"Alerts": "Alerts",
+		"About": "About",
+		"Collectors": "Collectors",
+		"Baselines": "Baselines",
+		"Event lanes": "Event lanes",
+		"Log sources": "Log sources"
+	},
+
+	"ApplicationScreenTitle": {
+		"Lookups": "Lookups",
+		"Create lookup": "Create lookup",
+		"Lookup info": "Lookup info",
+		"Items": "Items",
+		"Item": "Item",
+		"New item": "New item",
+		"Library": "Library",
+		"Correlation Explorer": "Correlation Explorer",
+		"Details": "Details",
+		"Tools": "Tools",
+		"Maintenance": "Maintenance",
+		"Configuration": "Configuration",
+		"Services": "Services",
+		"Exports": "Exports",
+		"Export": "Export",
+		"Restart": "Restart",
+		"Edit": "Edit",
+		"Export detail": "Export detail",
+		"Preset Exports": "Preset Exports",
+		"New export": "New export",
+		"Export declaration detail": "Export declaration detail",
+		"Resources": "Resources",
+		"New resource": "New resource",
+		"Resource detail": "Resource detail",
+		"Deleted resources": "Deleted resources",
+		"Deleted resource detail": "Deleted resource detail",
+		"Roles": "Roles",
+		"New role": "New role",
+		"Role detail": "Role detail",
+		"Credentials": "Credentials",
+		"New credentials": "New credentials",
+		"Credentials detail": "Credentials detail",
+		"Reset password": "Reset password",
+		"Sessions": "Sessions",
+		"Session detail": "Session detail",
+		"Tenants": "Tenants",
+		"New tenant": "New tenant",
+		"Tenant detail": "Tenant detail",
+		"Assign tenants": "Assign tenants",
+		"Clients": "Clients",
+		"New client": "New client",
+		"Client detail": "Client detail",
+		"Homepage": "Homepage",
+		"Discover": "Discover",
+		"Dashboards": "Dashboard list",
+		"Reports": "Report list",
+		"IP analysis": "IP analysis",
+		"User analysis": "User analysis",
+		"Host analysis": "Host analysis",
+		"Bulk actions": "Bulk actions",
+		"Alert management": "Alert management",
+		"Ticket detail": "Ticket detail",
+		"New ticket": "New ticket",
+		"About": "About",
+		"Invite": "Invite",
+		"Save filter": "Save filter",
+		"Filters": "Filters",
+		"Collectors": "Collectors",
+		"Collector": "Collector",
+		"Collector provisioning": "Collector provisioning",
+		"Baselines": "Baselines",
+		"Baseline type": "Baseline type",
+		"Baseline dimension": "Baseline dimension",
+		"Archive": "Archive",
+		"Stream": "Stream",
+		"Replay": "Replay",
+		"Replay detail": "Replay detail",
+		"Partition": "Partition",
+		"My account": "My account",
+		"Manage password": "Manage password",
+		"Manage email address": "Manage email address",
+		"Manage phone number": "Manage phone number",
+		"Manage authenticator app": "Manage authenticator app",
+		"Manage security keys": "Manage security keys",
+		"Event lanes": "Event lanes"
+	},
+
+	"UnauthorizedAccessScreen": {
+		"Unauthorized access": "Unauthorized access",
+		"You are not authorized to access this part of the application. Please ask your application administrator for following resource": "You are not authorized to access this part of the application. Please ask your application administrator for following resource",
+		"You are not authorized to access this part of the application.": "You are not authorized to access this part of the application."
+	},
+
+	"InvalidRouteScreen": {
+		"Nothing here": "Nothing here",
+		"Sorry, we can't find the page you are looking for.": "Sorry, we can't find the page you are looking for."
+	},
+
+	"General": {
+		"Name": "Name",
+		"Description": "Description",
+		"Created at": "Created at",
+		"Modified at": "Modified at",
+		"Expires at": "Expires at",
+		"Search": "Search",
+		"Save": "Save",
+		"Cancel": "Cancel",
+		"Clear": "Clear",
+		"Remove": "Remove",
+		"Edit": "Edit",
+		"Download": "Download",
+		"Back": "Back",
+		"Continue": "Continue",
+		"Close": "Close",
+		"Tenant": "Tenant",
+		"Your session will expire soon": "Your session will expire soon",
+		"Change theme": "Change theme",
+		"Page": "Page",
+		"Pages": "Pages",
+		"No items": "No items",
+		"No data": "No data",
+		"Feature preview": "Feature preview",
+		"Items per page": "Items per page",
+		"Failed to load rows to the data table": "Failed to load rows to the data table",
+		"of": "of",
+		"item(s)": "item(s)",
+		"page(s)": "page(s)",
+		"Shift + left mouse click for advanced sorting": "Shift + left mouse click for advanced sorting",
+		"Shift + left mouse click to remove from sorting": "Shift + left mouse click to remove from sorting",
+		"Something went wrong": "Something went wrong!",
+		"There was an issue processing a request": "There was an issue processing a request",
+		"You do not have access rights to perform this action": "You do not have access rights to perform this action",
+		"You have unsaved changes, do you want to discard them?": "You have unsaved changes, do you want to discard them?",
+		"Fullscreen": "Fullscreen",
+		"Exit Fullscreen": "Exit Fullscreen",
+		"Invalid Date": "Invalid Date"
+	}
+}

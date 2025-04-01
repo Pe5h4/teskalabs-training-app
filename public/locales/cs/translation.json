@@ -1,0 +1,244 @@
+{
+	"i18n": {
+		"language": {
+			"en": "English",
+			"cs": "Česky"
+		},
+		"Language": "Jazyk"
+	},
+
+	"AboutCard": {
+		"About": "O Aplikaci",
+		"Website": "Webová stránka",
+		"Vendor": "Výrobce"
+	},
+
+	"AccessControlScreen": {
+		"Access control": "Přístupová oprávnění",
+		"Username": "Uživatelské jméno",
+		"Resources": "Zdroje",
+		"Tenant": "Tenant"
+	},
+
+	"AccessDeniedCard": {
+		"is not assigned!": "není přiřazen!",
+		"Access denied": "Přístup zamítnut",
+		"Please contact application administrator for assigning appropriate access rights.": "Prosím obraťte se na administrátora aplikace ohledně získání přístupu.",
+		"Leave": "Odejít",
+		"Silly as it sounds, the logout failed": "Nestává se to často, ale odhlášení selhalo"
+	},
+
+	"AuthHeader": {
+		"My account": "Můj účet",
+		"Access control": "Přístupová oprávnění",
+		"Account settings": "Nastavení účtu",
+		"Change password": "Změna hesla",
+		"Log out": "Odhlásit",
+		"Invite other users": "Pozvat další uživatele",
+		"You have superuser privileges. Act responsibly.": "Máte správcovská oprávnění (superuser). Konejte zodpovědně."
+	},
+
+	"InvitationScreen": {
+		"Invitation has been sent successfully": "Pozvánka byla úspěšně odeslána",
+		"Invitation has not been sent": "Pozvánka nebyla odeslána",
+		"The user could not be invited": "Nepodařilo se pozvat uživatele",
+		"Invite other users": "Pozvat další uživatele",
+		"Enter the email to invite a user": "Vepište email k pozvání uživatele",
+		"Send": "Odeslat"
+	},
+
+	"ASABApplicationContainer": {
+		"Service URL is undefined, please check service paths passed to axios": "URL servicy není definována, prosím zkontrolujte nastavení cest servis předávaných axiosu",
+		"WebSocket URL is undefined, please check service and subpath passed to WebSocket": "WebSocket URL není definována, prosím zkontrolujte nastavení servis a dílčích cest předávaných WebSocketu",
+		"Advanced mode enabled": "Pokročilý režim aktivován",
+		"Advanced mode disabled": "Pokročilý režim deaktivován",
+		"Fullscreen mode turned on. To turn it off, press CTRL + SHIFT + F.": "Zapnut režim celé obrazovky. Režim vypnete stisknutím kombinace kláves CTRL + SHIFT + F.",
+		"Fullscreen mode turned off": "Vypnut režim celé obrazovky"
+	},
+	"ASABAuthModule": {
+		"You are in DEV mode and using MOCK login parameters": "Jste v DEV režimu a používáte MOCK přihlašovací údaje",
+		"Your session has expired.": "Vaše relace vypršela.",
+		"Click here to proceed to login.": "Klikněte zde a pokračujte k přihlášení.",
+		"Your session will expire soon": "Vaše relace brzy vyprší"
+	},
+	"ASABTenantModule": {
+		"Invalid tenant": "Neplatný tenant :-("
+	},
+
+	"UserInterfaceCard": {
+		"User interface": "Uživatelské rozhraní",
+		"Build date": "Datum sestavení",
+		"Version": "Verze",
+		"Repository": "Repozitář"
+	},
+
+	"HelpButton": {
+		"Show help info": "Zobrazit informace o nápovědě",
+		"Help": "Nápověda"
+	},
+
+	"Console": {
+		"Wrap lines": "Zalomit řádky",
+		"Unwrap lines": "Rozbalit řádky"
+	},
+
+	"Sidebar": {
+		"Home": "Domů",
+		"Correlation Explorer": "Průzkum. Korelace",
+		"Library": "Knihovna",
+		"Lookups": "Lookupy",
+		"Auth & Roles": "Auth & Role",
+		"Credentials": "Uživatelé",
+		"Tenants": "Tenanti",
+		"Sessions": "Relace",
+		"Roles": "Role",
+		"Resources": "Zdroje",
+		"Clients": "Klienti",
+		"Discover": "Průzkumník",
+		"Dashboards": "Dashboardy",
+		"Reports": "Reporty",
+		"Dashboard list": "Seznam dashboardů",
+		"Export": "Export",
+		"Maintenance": "Správa",
+		"Configuration": "Konfigurace",
+		"Services": "Služby",
+		"Tools": "Nástroje",
+		"Alerts": "Výstrahy",
+		"About": "O Aplikaci",
+		"Collectors": "Kolektory",
+		"Archive": "Archiv",
+		"Baselines": "Baseliny",
+		"Event lanes": "Datové linky",
+		"Log sources": "Zdroje logů"
+	},
+
+	"ApplicationScreenTitle": {
+		"Lookups": "Lookupy",
+		"Create lookup": "Vytvořit lookup",
+		"Lookup info": "Informace o lookupu",
+		"Items": "Položky",
+		"Item": "Položka",
+		"New item": "Nová položka",
+		"Library": "Knihovna",
+		"Correlation Explorer": "Průzkum. Korelace",
+		"Details": "Podrobnosti",
+		"Tools": "Nástroje",
+		"Maintenance": "Správa",
+		"Configuration": "Konfigurace",
+		"Services": "Služby",
+		"Exports": "Exporty",
+		"Export": "Export",
+		"Restart": "Restartovat",
+		"Edit": "Upravit",
+		"Export detail": "Detail exportu",
+		"Preset Exports": "Přednastavený Export",
+		"New export": "Nový export",
+		"Export declaration detail": "Detail deklarace exportu",
+		"Resources": "Zdroje",
+		"New resource": "Nový zdroj",
+		"Resource detail": "Detail zdroje",
+		"Deleted resources": "Odstraněné zdroje",
+		"Deleted resource detail": "Detail odstraněného zdroje",
+		"Roles": "Role",
+		"New role": "Nová role",
+		"Role detail": "Detail role",
+		"Credentials": "Uživatelské údaje",
+		"New credentials": "Nové uživ. údaje",
+		"Credentials detail": "Detail uživ. údajů",
+		"Reset password": "Obnovení hesla",
+		"Sessions": "Relace",
+		"Session detail": "Detail relace",
+		"Tenants": "Tenanti",
+		"New tenant": "Nový tenant",
+		"Tenant detail": "Detail tenanta",
+		"Assign tenants": "Přiřadit tenanty",
+		"Clients": "Klienti",
+		"New client": "Nový klient",
+		"Client detail": "Detail klienta",
+		"Homepage": "Domovská stránka",
+		"Access control": "Přístupová oprávnění",
+		"Discover": "Průzkumník",
+		"Dashboards": "Seznam dashboardů",
+		"Reports": "Seznam reportů",
+		"IP analysis": "Analýza IP",
+		"User analysis": "Analýza uživatele",
+		"Host analysis": "Analýza hosta",
+		"Bulk actions": "Hromadné akce",
+		"Alert management": "Správa výstrah",
+		"Ticket detail": "Detail ticketu",
+		"New ticket": "Nový ticket",
+		"About": "O Aplikaci",
+		"Invite": "Pozvat",
+		"Save filter": "Uložit filtr",
+		"Filters": "Filtry",
+		"Collectors": "Kolektory",
+		"Collector": "Kolektor",
+		"Collector provisioning": "Připojení kolektoru",
+		"Baselines": "Baseliny",
+		"Baseline type": "Typ baseliny",
+		"Baseline dimension": "Dimenze baseliny",
+		"Archive": "Archiv",
+		"Stream": "Tok",
+		"Replay": "Přehrávání",
+		"Replay detail": "Detail přehrávání",
+		"Partition": "Oddíl",
+		"My account": "Můj účet",
+		"Manage password": "Správa hesla",
+		"Manage email address": "Správa e-mailové adresy",
+		"Manage phone number": "Správa telefonního čísla",
+		"Manage authenticator app": "Správa autentifikační aplikace",
+		"Manage security keys": "Správa bezpečnostních klíčů",
+		"Event lanes": "Datové linky"
+	},
+
+	"UnauthorizedAccessScreen": {
+		"Unauthorized access": "Neoprávněný přístup",
+		"You are not authorized to access this part of the application. Please ask your application administrator for following resource": "Nejste oprávněni k přístupu do této části aplikace. Prosím, kontaktujte administrátora aplikace. K udělení přístupu je potřeba následující zdroj",
+		"You are not authorized to access this part of the application.": "Nejste oprávněni k přístupu do této části aplikace."
+	},
+
+	"InvalidRouteScreen": {
+		"Nothing here": "Zde nic není",
+		"Sorry, we can't find the page you are looking for.": "Omlouváme se, ale nepodařilo se nám najít stránku, kterou hledáte."
+	},
+
+	"General": {
+		"Resolution": "Rozlišení",
+		"Name": "Název",
+		"Description": "Popis",
+		"Created at": "Vytvořeno",
+		"Modified at": "Upraveno",
+		"Expires at": "Vyprší",
+		"Search": "Vyhledat",
+		"Save": "Uložit",
+		"Cancel": "Zrušit",
+		"Clear": "Vyčistit",
+		"Remove": "Odstranit",
+		"Edit": "Upravit",
+		"Download": "Stáhnout",
+		"Back": "Zpět",
+		"Continue": "Pokračujte",
+		"Close": "Zavřít",
+		"Your session will expire soon": "Vaše relace brzy vyprší",
+		"Change theme": "Změna pozadí",
+		"Page": "Stránky",
+		"Pages": "Stránek",
+		"No items": "Žádné položky",
+		"No data": "Žádná data",
+		"Feature preview": "Náhled funkce",
+		"Items per page": "Položek na stránku",
+		"Failed to load rows to the data table": "Nepodařilo se načíst řádky do tabulky",
+		"of": "z",
+		"item(s)": "položek",
+		"page(s)": "stránek",
+		"Shift + left mouse click for advanced sorting": "Shift + levé tlačítko myši pro pokročilé seřazení",
+		"Shift + left mouse click to remove from sorting": "Shift + levé tlačítko myši pro odebrání z řazení",
+		"Something went wrong": "Něco je špatně!",
+		"There was an issue processing a request": "Vyskytl se problém při zpracování požadavku",
+		"You do not have access rights to perform this action": "Váš přístup je omezen, nemáte dostatečná oprávnění",
+		"You have unsaved changes, do you want to discard them?": "Máte neuložené změny, přejete si je zrušit?",
+		"Fullscreen": "Celá obrazovka",
+		"Exit Fullscreen": "Opustit celou obrazovku",
+		"Invalid Date": "Nesprávné datum"
+	}
+}
