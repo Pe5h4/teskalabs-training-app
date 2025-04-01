@@ -6,11 +6,6 @@ const commonConfig = require('./webpack.common');
 const devConfig = {
 	mode: "development",
 	entry: path.resolve(__dirname, "../src/index.jsx"),
-	output: {
-		path: path.resolve(__dirname, "../dist"),
-		filename: "bundle.js",
-		publicPath: "/"
-	},
 	devtool: "inline-source-map",
 	devServer: {
 		static: path.resolve(__dirname, "../public"),
